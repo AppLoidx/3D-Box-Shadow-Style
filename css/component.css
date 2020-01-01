@@ -170,27 +170,27 @@ Posters and still images
 **************************************/
 
 .scene:nth-child(1) .movie .poster {
-  background-image: url(https://i.pinimg.com/originals/89/79/6b/89796b4fb8bf58c129edb0f879814eb7.jpg);
+  background-image: url('../img/1.jpg');
 }
 
 .scene:nth-child(2) .poster {
-  background-image: url(http://www.animacity.ru/sites/default/files/imagecache/photo-list/users/814/photo/2018/2/01_0.jpg);
+  background-image: url('../img/2.jpg');
 }
 
 .scene:nth-child(3) .poster {
-  background-image: url(https://media.kg-portal.ru/anime/d/domekano/posters/domekano_2.jpg);
+  background-image: url('../img/3.jpg');
 }
 
 .scene:nth-child(1) .info header {
-	background-image: url(https://cs6.pikabu.ru/images/big_size_comm/2017-05_6/149617286913123243.jpg);
+	background-image: url('../img/1-1.jpg');
 }
 
 .scene:nth-child(2) .info header {
-	background-image: url(http://www.game-ost.ru/static/covers_soundtracks/2/0/209957_533120.jpg);
+	background-image: url('../img/2-2.jpg');
 }
 
 .scene:nth-child(3) .info header {
-	background-image: url(https://avatars.mds.yandex.net/get-zen_doc/987771/pub_5c88e92a50389e00b37bec0d_5c88ef7b5944f400b3dae8ec/scale_1200);
+	background-image: url('../img/3-3.webp');
 }
 
 /*************************************
